@@ -8,16 +8,16 @@ ___
 - **Mobile Phone:** +375 \(25\) 652 42 14
 - **Email:** <rikossu.official@gmail.com>
 - **Github:** [@rikossu](https://github.com/rikossu)
-- **Telegram:** [@rikossu](https://t.me/rikossu)\
-___
+- **Telegram:** [@rikossu](https://t.me/rikossu)
+
 ### Skils & Proficiency
 ___
 - Markdown
 - HTML5, CSS3
 - JavaScript Basics
 - VSCode
-- Krita, Gimp\
-___
+- Krita, Gimp
+
 ### Code Example
 ```
     let name = prompt('What is ur name?\n', 'name')
